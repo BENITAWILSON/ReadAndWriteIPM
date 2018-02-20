@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.jpos.iso.ISOMsg"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="com.sleepycat.je.log.FileReader"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.RandomAccessFile"/>
+<fullyQualifiedTypeName name="org.jpos.iso.ISOUtil"/>
+<fullyQualifiedTypeName name="org.jpos.iso.ISOComponent"/>
+<fullyQualifiedTypeName name="org.jpos.iso.ISOException"/>
+<fullyQualifiedTypeName name="org.jpos.iso.ISOField"/>
+<fullyQualifiedTypeName name="org.jpos.iso.ISOBinaryField"/>
+<fullyQualifiedTypeName name="org.jpos.iso.ISOFieldPackager"/>
+<fullyQualifiedTypeName name="org.jpos.iso.IFA_LLLCHAR"/>
+<fullyQualifiedTypeName name="org.jpos.iso.packager.DecimalTagMapper"/>
+</qualifiedTypeNameHistroy>

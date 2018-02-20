@@ -1,0 +1,22 @@
+INDEX VERSION 1.127+C:\Users\bcharleywilson\Mastercard\.metadata\.plugins\org.eclipse.jdt.core
+4143194032.index
+2143897553.index
+113985750.index
+3179603572.index
+2712916238.index
+629720257.index
+4246450225.index
+261760421.index
+1044264761.index
+2442251842.index
+3172169779.index
+3892687513.index
+396108659.index
+1959745224.index
+1317356655.index
+2175745107.index
+2052335078.index
+61007474.index
+820522106.index
+586008136.index
+1837388419.index

@@ -1,0 +1,13 @@
+package UtilityForIPMMessage;
+
+public class IFA_TTTTLLLCHAR {
+
+	 @Override
+	    protected int getTagNameLength() {
+	        return 4;
+	    }
+
+	    protected ISOFieldPackager getDelegate(int length, String description) {
+	        return new IFA_LLLCHAR(length, description);
+	    }
+}

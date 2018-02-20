@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Users\bcharleywilson\Desktop\ride-6.1.1-win64\ride-6.1.1-win64\OracleJDK" version="1.8.0_60">
+<bootpath>
+<entry path="C:\Users\bcharleywilson\Desktop\ride-6.1.1-win64\ride-6.1.1-win64\OracleJDK\jre\lib\resources.jar"/>
+<entry path="C:\Users\bcharleywilson\Desktop\ride-6.1.1-win64\ride-6.1.1-win64\OracleJDK\jre\lib\rt.jar"/>
+<entry path="C:\Users\bcharleywilson\Desktop\ride-6.1.1-win64\ride-6.1.1-win64\OracleJDK\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Users\bcharleywilson\Desktop\ride-6.1.1-win64\ride-6.1.1-win64\OracleJDK\jre\lib\jsse.jar"/>
+<entry path="C:\Users\bcharleywilson\Desktop\ride-6.1.1-win64\ride-6.1.1-win64\OracleJDK\jre\lib\jce.jar"/>
+<entry path="C:\Users\bcharleywilson\Desktop\ride-6.1.1-win64\ride-6.1.1-win64\OracleJDK\jre\lib\charsets.jar"/>
+<entry path="C:\Users\bcharleywilson\Desktop\ride-6.1.1-win64\ride-6.1.1-win64\OracleJDK\jre\lib\jfr.jar"/>
+<entry path="C:\Users\bcharleywilson\Desktop\ride-6.1.1-win64\ride-6.1.1-win64\OracleJDK\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Users\bcharleywilson\Desktop\ride-6.1.1-win64\ride-6.1.1-win64\OracleJDK\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Users\bcharleywilson\Desktop\ride-6.1.1-win64\ride-6.1.1-win64\OracleJDK\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

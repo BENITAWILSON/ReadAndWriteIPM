@@ -1,0 +1,18 @@
+package UtilityForIPMMessage;
+
+import org.jpos.iso.IFA_LLLCHAR;
+import org.jpos.iso.IFA_LLLNUMERIC;
+import org.jpos.iso.ISOFieldPackager;
+
+public class IFA_TTTTLLLNUM extends PDSTaggedFieldPackager{
+
+	 @Override
+	    protected int getTagNameLength() {
+	        return 4;
+	    }
+
+	    protected ISOFieldPackager getDelegate(int length, String description) {
+	        return new IFA_LLLNUMERIC(length, description);
+	    }
+	
+}
